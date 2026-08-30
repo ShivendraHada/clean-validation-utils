@@ -1,0 +1,14 @@
+{
+  "name": "validation-utils",
+  "version": "1.0.0",
+  "description": "Small, well-tested input validation and sanitization utilities",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
